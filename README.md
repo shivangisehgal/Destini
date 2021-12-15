@@ -1,15 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Destini 🔮
 
+A game where the story changes according to your decisions. With this app, I learnt how to apply Dart OOP principles to build a well organised project.
 
-# Destini 🤔
-
-## Our Goal
-
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Pi7_gif_Destini_gif](https://user-images.githubusercontent.com/83656526/146213982-744f3e68-2346-4813-bc1c-d5d2c95ba771.gif)
